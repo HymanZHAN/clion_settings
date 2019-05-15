@@ -1,4 +1,7 @@
 <keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoChangedFile" />
@@ -7,6 +10,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Print" />
+  <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
