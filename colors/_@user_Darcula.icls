@@ -1,13 +1,13 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-11-17T18:35:14</property>
+    <property name="created">2019-06-23T08:01:20</property>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-05-14T22:18:55</property>
+    <property name="ideVersion">2019.1.4.0.0</property>
+    <property name="modified">2019-06-23T08:05:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="73c990" />
+    <option name="FILESTATUS_ADDED" value="91b859" />
     <option name="FILESTATUS_COPIED" value="73c990" />
     <option name="FILESTATUS_DELETED" value="59626f" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
@@ -20,7 +20,6 @@
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
     <option name="FILESTATUS_SWITCHED" value="61aeef" />
